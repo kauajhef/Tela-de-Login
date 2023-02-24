@@ -1,0 +1,70 @@
+
+
+body{
+
+    background-color: #1B1F27;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+
+}
+
+div{
+    background-color: #181920;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 80px;
+    border-radius: 15px;
+    color: #ffff;
+    text-align: center;
+    
+  
+    
+}
+
+input{
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    width: 300px;
+    border-radius: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+button{
+    background-color:cadetblue;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+    color:#ffff;
+    font-size: 15px;
+}
+button:hover{
+    background-color: cyan;
+    cursor: pointer;
+}
+
+
+.subtitulo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.logokj{
+    width: 65px;
+    height: auto;
+   text-align: center;
+}
+
+.link{
+    text-decoration: none;
+}
+
